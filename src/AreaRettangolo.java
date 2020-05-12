@@ -1,7 +1,7 @@
 /**
 * @author Bello
-*<p>ver 1<p>
-* classe BelloFigura 2
+*<p>ver 2<p>
+* classe BelloFigura 23
 * eredita metodi classe <b>Quadrato</b>
 *
 *
@@ -59,7 +59,7 @@ public void setAltezza(float altezza) {
 * 
 */
 	public static void main(String[] args) {
-		AreaRettangolo a=new AreaRettangolo(3, 4);
+		AreaRettangolo a=new AreaRettangolo(4, 4);
          System.out.println(a.area());
          System.out.println(a.perimetro());
          System.out.println(a);
