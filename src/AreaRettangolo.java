@@ -59,7 +59,7 @@ public void setAltezza(float altezza) {
 * 
 */
 	public static void main(String[] args) {
-		AreaRettangolo a=new AreaRettangolo(4, 4);
+		AreaRettangolo a=new AreaRettangolo(5, 4);
          System.out.println(a.area());
          System.out.println(a.perimetro());
          System.out.println(a);
